@@ -1,5 +1,5 @@
 # DjangoMarketplace
-My first django marketplace(browser, items, categories, editor). PLEASE open master branch to see my project
+My first django marketplace(browser, items, categories, editor).
 
 # Python Version Used
 Python version is Python3.11 link for installation(https://www.python.org/downloads/release/python-3114/)
