@@ -1,5 +1,5 @@
 # DjangoMarketplace
-My first django marketplace(browser, items, categories, editor).
+This Marketplace that is written on Django Framework includes following functions(browser, items, categories, editor).
 
 # Main Page(Upper Part)
 ![Screenshot 2024-01-21 at 6 32 59 PM](https://github.com/Andr11P/DjangoMarketplace/assets/128001519/4b1b216f-f11c-416e-a926-894cab5e0db5)
