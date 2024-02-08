@@ -1,4 +1,4 @@
-# DjangoMarketplace
+# Marketplace
 This Marketplace that is written on Django Framework includes following functions(browser, items, categories, editor).
 
 # Main Page(Upper Part)
